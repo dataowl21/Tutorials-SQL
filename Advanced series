@@ -1,3 +1,5 @@
+-----MYSQL ADVANCED series
+
 -- CTEs (common table expressions)
 
 WITH CTE_Example AS
